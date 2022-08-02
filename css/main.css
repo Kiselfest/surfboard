@@ -282,7 +282,7 @@ img {
   position: relative;
 }
 .benefits__item:before {
-  content: url(img/benefits_item.svg);
+  content: url(../img/benefits_item.svg);
   position: absolute;
   top: 50px;
   right: 0;
